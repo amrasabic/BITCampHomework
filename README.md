@@ -1,3 +1,3 @@
 # BITCampHomework
 
-Just my homework, learning Java.
+Just my homeworks before mentorship, learning Java.
